@@ -1,0 +1,8 @@
+--cwd src
+--main Main
+--define lua-ver=5.2
+
+--library hxlua
+--library hxcpp
+
+--cpp ../build/
