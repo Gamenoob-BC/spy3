@@ -1,6 +1,6 @@
 --cwd src
 --main Main
---define lua-ver=5.2
+--define lua-ver=5.1
 
 --library hxlua
 --library hxcpp
