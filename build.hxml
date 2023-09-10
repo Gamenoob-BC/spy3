@@ -1,5 +1,4 @@
 --cwd src
---main Main
 --define lua-ver=5.1
 
 --library hxlua
